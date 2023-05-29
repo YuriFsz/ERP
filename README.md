@@ -50,3 +50,7 @@ Projeto desenvolvido na UNA Betim
 # Modelo Conceitual
 
 ![Modelo Conceitual](https://github.com/YuriFsz/ERP/assets/98249765/e9574e0b-49e7-4b35-a7a8-d21d65bb0cf5)
+
+# Modelo Físico
+
+![Modelo Fisico](https://github.com/YuriFsz/ERP/assets/98249765/01b4add5-9ea7-46be-9375-cd3fe05f1eec)
