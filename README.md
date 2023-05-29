@@ -46,3 +46,7 @@ Projeto desenvolvido na UNA Betim
 [RFN006] - O sistema deverá seguir a LGPD para guardar informações pessoais de usuários.
 
 [RFN007] - O sistema deverá ser responsivo para facilitar o acesso mobile.
+
+# Modelo Conceitual
+
+![Modelo Conceitual](https://github.com/YuriFsz/ERP/assets/98249765/e9574e0b-49e7-4b35-a7a8-d21d65bb0cf5)
